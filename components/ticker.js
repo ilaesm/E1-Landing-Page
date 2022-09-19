@@ -3,9 +3,9 @@ import { TickerTape } from "react-ts-tradingview-widgets";
 
 function Ticker() {
   return (
-    <div>
+    <div className='fixed bottom-0'>
 <TickerTape isTransparent='true'></TickerTape>
-    </div>
+</div>
   )
 }
 

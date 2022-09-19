@@ -1,8 +1,11 @@
 import React from 'react'
+import Navbar from '../components/navbar'
 
 function positions() {
   return (
-    <div>positions</div>
+    <div>
+      <Navbar />
+    </div>
   )
 }
 
