@@ -8,7 +8,8 @@ module.exports = {
     theme: {
     extend: {
       fontFamily: {
-        DM_Sans:['DM_Sans', 'sans-serif']
+        DM_Sans:['DM_Sans', 'sans-serif'],
+        Montserrat:['Montserrat', 'sans-serif']
       }
     },
   }
