@@ -3,7 +3,7 @@ import { TickerTape } from "react-ts-tradingview-widgets";
 
 function Ticker() {
   return (
-    <footer className='fixed bottom-0 left-0 w-full h-13'>
+    <footer className='fixed -bottom-8 left-0 w-full h-max'>
 <TickerTape isTransparent='true'></TickerTape>
 </footer>
   )

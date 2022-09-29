@@ -9,7 +9,8 @@ module.exports = {
     extend: {
       fontFamily: {
         DM_Sans:['DM_Sans', 'sans-serif'],
-        Montserrat:['Montserrat', 'sans-serif']
+        Montserrat:['Montserrat', 'sans-serif'],
+        Manrope:['Manrope', 'sans-serif']
       }
     },
   }
