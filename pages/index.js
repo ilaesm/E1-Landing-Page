@@ -14,7 +14,7 @@ export default function Home() {
   <Navbar />
 <section className="dark:bg-gray-800"> 
 	<div className="container mx-auto flex flex-col items-center justify-center w-screen px-4 py-16 text-center md:py-32 md:px-10 lg:px-32 xl:max-w-5xl">
-    <div className="text-black font-[700] text-[70px] font-['Manrope'] w-screen grow pb-6 font-medium">
+    <div className="font-black font-[700] text-[70px] font-['Manrope'] w-screen grow pb-6 font-medium">
     <Typewriter
     options={{
       cursor: "",
