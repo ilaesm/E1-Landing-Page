@@ -41,7 +41,7 @@ export default function Home() {
 <Info />
 <Ticker />
     <Head>
-      <title>Home - E1 Investing Competition</title>
+      <title>E1 Investing Competition</title>
     </Head>
 </section>
 </div>
